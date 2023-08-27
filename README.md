@@ -1,8 +1,8 @@
-# React + Vite
+# Aplicaciones diseñada con ReactJS y TailwindCSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Esta aplicacion esta creada con el fin de demostrar mis habilidades en las diferentes librerias.
 
-Currently, two official plugins are available:
+puedes enlazar esta aplicacion con una de la parte del backend y enviar datos para que se guarden en mongoDB
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [BackendApplicationNode](https://github.com/af01camacho/BackendApiAplication) Usa [MongoDB]([https://babeljs.io/](https://www.mongodb.com/es)) para enlazar la base de datos.
+- [ScreenShots de la App](https://prnt.sc/f-mHUA9eae6C)  
