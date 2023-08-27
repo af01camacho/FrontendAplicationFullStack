@@ -1,6 +1,10 @@
 # Aplicaciones diseñada con ReactJS y TailwindCSS
 
 Esta aplicacion esta creada con el fin de demostrar mis habilidades en las diferentes librerias.
+# Sistema de creacion de cuentas - 70%
+
+-Peticiones POST a un servidor backend dedicado
+-En proceso la parte de autenticacion de usuarios.
 
 puedes enlazar esta aplicacion con una de la parte del backend y enviar datos para que se guarden en mongoDB
 
